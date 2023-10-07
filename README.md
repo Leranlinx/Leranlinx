@@ -26,14 +26,7 @@ To utilize my skills for achieving the target and developing the best performanc
 
 ## 📚 Projects
 
-- [Scuba Diving](https://github.com/leonardomarcao/ScubaDiving) - A Java project (2018)
-- [PFA](https://github.com/leonardomarcao/PFA) - A Java project (2018)
-- [Anne](https://github.com/leonardomarcao/Anne) - A Python project (2019)
-- [Weather Mini Challenge](https://github.com/leonardomarcao/weather-mini-challenge) - A Python project (2019)
-- [Mr. Referee](https://github.com/leonardomarcao/mr-referee-app) - An Electron and Node project (2022)
-- [Monopoly Game](https://github.com/leonardomarcao/monopoly-game) - A Python project (2022)
-- [Credit Card](https://github.com/leonardomarcao/credit_card) - A Python project (2023)
-- [Shift Spectra](https://github.com/leonardomarcao/shift-spectra) - A Python project (2023)
+- [Scuba Diving](https://github.com/Leranlinx/web-design/tree/main/Amazon-website) - A Java project (2023)
 
 ## 📝 Talks
 
