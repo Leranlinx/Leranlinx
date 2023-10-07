@@ -19,6 +19,8 @@ To utilize my skills for achieving the target and developing the best performanc
 - java
 - HTML5
 - CSS
+- oop(object oriented programming)
+- problem solving
 
 ## 🌐 Languages
 
@@ -28,17 +30,9 @@ To utilize my skills for achieving the target and developing the best performanc
 
 - [Scuba Diving](https://github.com/Leranlinx/web-design/tree/main/Amazon-website) - A Java project (2023)
 
-## 📝 Talks
-
-- [Palestra: Internet das Coisas (IoT): Indo além da conectividade (2016)](https://youtu.be/jg3dMoGVfM4?si=DNqg8R7JjnjqSmj9)
-- [Palestra: O Mercado Python no Brasil - 20ª Semana de informática - Etec Pedro Badran (2021)](https://www.youtube.com/watch?v=SrmDK5ExGTw)
-- [Palestra: O Mercado de TI no Brasil e Aceleração Global - E. E. Manoel Martins (2022)](https://www.youtube.com/watch?v=suFPWMTZchc)
-- [Palestra: Mercado de TI no Brasil 2023: Análise, Tendências e Oportunidades | Palestra ETEC Pedro Badran (2023)](https://youtu.be/59Qif59358c?si=7TwGocaSlJkB09sq)
-
 ## 👨‍💻 Let's Connect
 
 I'm open to collaborating on open source projects, feel free to connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/leonardomarcao/)
-- [YouTube](https://www.youtube.com/@leonardomarcaof)
-- [Medium](https://medium.com/@leonardo.marcao)
+- [LinkedIn](https://www.linkedin.com/in/md-nahimul-islam-138631291/)
+- [Facebook](https://www.facebook.com/rafi.sd.773/)
