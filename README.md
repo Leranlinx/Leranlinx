@@ -24,11 +24,11 @@ To utilize my skills for achieving the target and developing the best performanc
 
 ## 🌐 Languages
 
-- English (Intermediate - B1)
+- English 
 
 ## 📚 Projects
 
-- [Scuba Diving](https://github.com/Leranlinx/web-design/tree/main/Amazon-website) - A Java project (2023)
+- [Scuba Diving](https://github.com/Leranlinx/web-design/tree/main/Amazon-website) - (2023)
 
 ## 👨‍💻 Let's Connect
 
