@@ -10,30 +10,19 @@ To utilize my skills for achieving the target and developing the best performanc
 
 ## 🎓 Education
 
-- Computer Science & Engineering(2022-2026)
+- Computer Science & Engineering, Daffodil Technical Institute
 
-## 💼 Work Experience
-
-- Full-stack Developer, Blue3, Ribeirão Preto, Brazil (June 2019 - August 2020)
-- Python Backend Developer, Risknow.ai, São Paulo, Brazil (August 2020 - September 2021)
-- Full-stack Developer, TCL Solutions, Ribeirão Preto, Brazil (September 2021 - April 2022)
-- Volunteer Full Stack Developer, Linguistics Justice League, Mercer Island, Washington, USA (June 2022 - September 2022)
-- Python Backend Developer, Omie, São Paulo, Brazil (April 2022 - Present)
 
 ## 🛠 Skills
 
 - Python
-- Django
-- Django Rest Framework
-- Flask API
-- Fast API
-- AWS
+- java
+- HTML5
+- CSS
 
 ## 🌐 Languages
 
-- Portuguese (Native)
 - English (Intermediate - B1)
-- Spanish (Upper-Intermediate - B2)
 
 ## 📚 Projects
 
