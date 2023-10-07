@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-Born in São Joaquim da Barra, a charming city in the interior of São Paulo, I embarked on my coding journey at the age of 13. A Python enthusiast, I'm always seeking professional improvement. My philosophy? The key to success is relentless effort.
+To utilize my skills for achieving the target and developing the best performance in the . I would like to implement my innovative ideas, skills an accomplishing the projects creativity for.
 
 ## 🎓 Education
 
-- Bachelor's Degree in Computer Science, Paulista University, Ribeirão Preto, Brazil (2018-2020)
+- Computer Science & Engineering(2022-2026)
 
 ## 💼 Work Experience
 
