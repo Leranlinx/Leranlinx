@@ -4,8 +4,6 @@
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-![Md Nahimul Islam GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=Md_Nahimul_Islam&theme=default&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md_Nahimul_Islam&langs_count=8&hide=java,html,vue&layout=compact)
-
 ## 🚀 About Me
 
 Born in São Joaquim da Barra, a charming city in the interior of São Paulo, I embarked on my coding journey at the age of 13. A Python enthusiast, I'm always seeking professional improvement. My philosophy? The key to success is relentless effort.
