@@ -3,6 +3,12 @@
 <a href="https://www.linkedin.com/in/md-nahimul-islam-138631291/" target="_blank">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+- ## 📊 GitHub Stats:
+<!--
+![](https://github-readme-stats.vercel.app/api?username=Leranlinx&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Leranlinx&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leranlinx&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 About Me
 
@@ -38,9 +44,4 @@ I'm open to collaborating on open source projects, feel free to connect with me:
 - [Facebook](https://www.facebook.com/rafi.sd.773/)
 - [Email]nahimul.dti@gmail.com
 
-- ## 📊 GitHub Stats:
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Leranlinx&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Leranlinx&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leranlinx&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
